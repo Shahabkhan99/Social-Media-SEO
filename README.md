@@ -11,17 +11,17 @@ AI Integration: Connects to either ChatGPT (OpenAI) or Gemini (Google) to genera
 Prerequisites
 You need to install the libraries for OpenAI and Google Gemini. Open your command prompt (cmd) or terminal and run:
 
-Bash
+# Bash
 pip install openai google-generativeai
 
-Bash
+# Bash
 pip install streamlit openai google-generativeai
 
-Bash
+# Bash
 pip install huggingface_hub
 
 
-How to use the App:
+# How to use the App:
 First Launch (Profile Page):
 
 Enter your Name.
