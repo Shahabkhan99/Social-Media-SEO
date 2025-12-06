@@ -1,9 +1,9 @@
-🚀 Social Media AI SEO Generator V25.12
+#🚀 Social Media AI SEO Generator V25.12
 A powerful, local Python web application that uses advanced AI (Google Gemini, ChatGPT, or Hugging Face) to generate viral, SEO-optimized content for social media platforms.
 
 This app creates a seamless workflow for Social Media Managers and Content Creators by generating Titles, Descriptions, Hashtags, Keywords, and Backend Tags in a single click, complete with your specific social media links and icons.
 
-✨ Features
+#✨ Features
 Multi-Profile Management: Create separate profiles for different clients or brands (e.g., "Personal", "Business", "Client A").
 
 3-Box Smart Output:
@@ -22,7 +22,7 @@ Local Privacy: All API keys and profiles are stored locally in JSON files on you
 
 Export: Download results as .txt files.
 
-🛠️ Installation & Prerequisites
+#🛠️ Installation & Prerequisites
 You need Python installed on your computer.
 
 Clone or Download this repository.
@@ -32,7 +32,7 @@ Install the required libraries by opening your terminal/command prompt and runni
 Bash
 
 pip install streamlit openai google-generativeai huggingface_hub
-🔑 Getting Your API Keys
+#🔑 Getting Your API Keys
 To use the app, you need an API key from one of the following providers:
 
 Google Gemini (Recommended/Free): Get Key Here
@@ -41,7 +41,7 @@ Hugging Face (Free): Get Token Here (Select "Read" permission).
 
 OpenAI (Paid): Get Key Here
 
-🚀 How to Use the App
+#🚀 How to Use the App
 1. Run the Application
 Open your terminal in the project folder and run:
 
@@ -75,13 +75,13 @@ Click ✨ Generate.
 4. The Result
 The app provides three distinct sections:
 
-📌 Title: Optimized for high click-through rate.
+#📌 Title: Optimized for high click-through rate.
 
-📝 Main Content: The full body text including your description, your social links (with icons), hashtags, and keywords. Copy and paste this directly into your post.
+#📝 Main Content: The full body text including your description, your social links (with icons), hashtags, and keywords. Copy and paste this directly into your post.
 
-🏷️ Backend Tags: Copy these comma-separated tags into your YouTube Studio tags section.
+#🏷️ Backend Tags: Copy these comma-separated tags into your YouTube Studio tags section.
 
-📂 File Structure
+#📂 File Structure
 app.py: The main application logic.
 
 profiles/: A folder automatically created to store your user data (.json files).
