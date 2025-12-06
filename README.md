@@ -75,11 +75,14 @@ Click ✨ Generate.
 4. The Result
 The app provides three distinct sections:
 
-# 📌 Title: Optimized for high click-through rate.
+# 📌 Title: 
+Optimized for high click-through rate.
 
-# 📝 Main Content: The full body text including your description, your social links (with icons), hashtags, and keywords. Copy and paste this directly into your post.
+# 📝 Main Content: 
+The full body text including your description, your social links (with icons), hashtags, and keywords. Copy and paste this directly into your post.
 
-# 🏷️ Backend Tags: Copy these comma-separated tags into your YouTube Studio tags section.
+# 🏷️ Backend Tags: 
+Copy these comma-separated tags into your YouTube Studio tags section.
 
 # 📂 File Structure
 app.py: The main application logic.
