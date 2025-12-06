@@ -91,7 +91,7 @@ app.py: The main application logic.
 
 If you find this tool useful, you can buy me a coffee!
 
-# [![Support via PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/shahab99khan)
+# [![Support via PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=NU8U7YL5PR96S)
 
 profiles/: A folder automatically created to store your user data (.json files).
 
