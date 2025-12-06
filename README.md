@@ -87,6 +87,9 @@ Copy these comma-separated tags into your YouTube Studio tags section.
 # 📂 File Structure
 app.py: The main application logic.
 
+# if you like my work by me coffee 
+paypal.me/shahab99khan
+
 profiles/: A folder automatically created to store your user data (.json files).
 
 📄 License
