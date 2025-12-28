@@ -87,6 +87,9 @@ Copy these comma-separated tags into your YouTube Studio tags section.
 # 📂 File Structure
 app.py: The main application logic.
 
+📄 License
+This project is open source. Feel free to modify and distribute.
+
 # ☕ Support
 
 If you find this tool useful, you can buy me a coffee!
@@ -95,5 +98,4 @@ If you find this tool useful, you can buy me a coffee!
 
 profiles/: A folder automatically created to store your user data (.json files).
 
-📄 License
-This project is open source. Feel free to modify and distribute.
+
